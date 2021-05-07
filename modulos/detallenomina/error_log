@@ -1,0 +1,8 @@
+[01-May-2021 12:08:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zrgmu4thhhvm/public_html/boletas/tools/navbar.php on line 39
+[01-May-2021 12:11:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zrgmu4thhhvm/public_html/boletas/tools/navbar.php on line 39
+[01-May-2021 12:11:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zrgmu4thhhvm/public_html/boletas/tools/navbar.php on line 39
+[01-May-2021 12:12:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zrgmu4thhhvm/public_html/boletas/tools/navbar.php on line 39
+[01-May-2021 12:12:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zrgmu4thhhvm/public_html/boletas/tools/navbar.php on line 39
+[01-May-2021 12:12:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zrgmu4thhhvm/public_html/boletas/tools/navbar.php on line 39
+[01-May-2021 12:12:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zrgmu4thhhvm/public_html/boletas/tools/navbar.php on line 39
+[01-May-2021 12:17:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/zrgmu4thhhvm/public_html/boletas/tools/navbar.php on line 39
